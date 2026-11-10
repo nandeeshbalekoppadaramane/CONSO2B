@@ -44,5 +44,5 @@ Then open the local URL Streamlit prints (default `http://localhost:8501`).
 ## Notes
 
 - Files are processed in upload order.
-- Everything runs locally; no data leaves your machine.
-- Private project.
+- When run locally, uploads are processed by the local Streamlit server. A hosted deployment processes uploads on its host.
+- Personal project.
